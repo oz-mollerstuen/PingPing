@@ -1,0 +1,15 @@
+/Users/student/Desktop/pingPing/bin/Debug/net6.0/pingPing
+/Users/student/Desktop/pingPing/bin/Debug/net6.0/pingPing.deps.json
+/Users/student/Desktop/pingPing/bin/Debug/net6.0/pingPing.runtimeconfig.json
+/Users/student/Desktop/pingPing/bin/Debug/net6.0/pingPing.dll
+/Users/student/Desktop/pingPing/bin/Debug/net6.0/pingPing.pdb
+/Users/student/Desktop/pingPing/obj/Debug/net6.0/pingPing.csproj.AssemblyReference.cache
+/Users/student/Desktop/pingPing/obj/Debug/net6.0/pingPing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/student/Desktop/pingPing/obj/Debug/net6.0/pingPing.AssemblyInfoInputs.cache
+/Users/student/Desktop/pingPing/obj/Debug/net6.0/pingPing.AssemblyInfo.cs
+/Users/student/Desktop/pingPing/obj/Debug/net6.0/pingPing.csproj.CoreCompileInputs.cache
+/Users/student/Desktop/pingPing/obj/Debug/net6.0/pingPing.dll
+/Users/student/Desktop/pingPing/obj/Debug/net6.0/refint/pingPing.dll
+/Users/student/Desktop/pingPing/obj/Debug/net6.0/pingPing.pdb
+/Users/student/Desktop/pingPing/obj/Debug/net6.0/pingPing.genruntimeconfig.cache
+/Users/student/Desktop/pingPing/obj/Debug/net6.0/ref/pingPing.dll
